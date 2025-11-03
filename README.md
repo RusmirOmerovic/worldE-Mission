@@ -20,7 +20,7 @@ Unterstützung der arabischen Sprache (RTL).
 - Logo und Konzeptskizze komplett selbst entworfen: Design-Underscore seit Beginn.  
 - Umsetzung mit Bootstrap + ein wenig reinem JavaScript (ohne großes Framework) – klar & schlank.  
 
-[mobile Ansicht](img/mobile-ansicht.png)
+![mobile Ansicht](img/mobile-ansicht.png)
 
 ## 🧰 Technologie-Stack  
 - HTML5 + CSS3  
